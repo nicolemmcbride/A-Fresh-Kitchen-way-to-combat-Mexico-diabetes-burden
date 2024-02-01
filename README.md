@@ -19,11 +19,10 @@ A variety of data cleaning methods were employed to accomplish the above tasks. 
 Google Sheets and Tableau were used for this entire project.
 
 ### Communication  
-I completed a 5-minute presentation of my findings; slides and visuals for this project are included in this repository. A dashboard of [demographics](https://public.tableau.com/views/MexicoDiabetesBurdenI/Demos?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) and
+I completed a 5-minute presentation of my findings; slides and visuals for this project are included in this repository. A dashboard of [demographics](https://public.tableau.com/views/MexicoDiabetesBurdenI/Demos?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) and [obesity and diabetes density](https://public.tableau.com/views/MexicoDiabetesBurdenII/Diabetes?:language=en-US&:display_count=n&:origin=viz_share_link) by county were created.
 
 <img width="656" alt="Screenshot demographics" src="https://user-images.githubusercontent.com/80511410/196418948-da5707f1-ada5-4fc8-b968-5bbf59e2d559.png">
 
-[obesity and diabetes density](https://public.tableau.com/views/MexicoDiabetesBurdenII/Diabetes?:language=en-US&:display_count=n&:origin=viz_share_link) by county were created.
 
 <img width="937" alt="Screenshot density locations" src="https://user-images.githubusercontent.com/80511410/196419534-2f35cff2-5dbe-4072-8b46-c17f4d559510.png">
 
