@@ -4,7 +4,7 @@
 
 Noncommunicable diseases are the leading causes of disability in Mexico, specifically, diabetes. Creating change in the diabetic culture will take time, however, targeting the restaurant capital market can be a way to start. [Fresh Kitchen](https://www.eatfreshkitchen.com/) is an amazingly delicious and nutritious healthy fast-food chain in Florida that delivers hormone free, fresh food “as quick as you can point”. By identifying the density of diabetes and population in Mexico, Fresh Kitchen will have strategic locations of where to build their restaurants to help counter the rising diabetes rates. After obtaining an understanding of the demographics and health conditions of the 31 federal states of Mexico using Google Sheets and Tableau, 5 states that had the highest density of obesity prevalence and diabetes deaths per capita were identified: Campeche, Durango, Chihuahua, Jalisco, Nayarit.
 
-To dig deeper into this project, please see the data and presentation slides within this repository.
+To dig deeper into this project, please review the data and [final presentation](https://github.com/nicolemmcbride/Nutritious-meals-as-a-way-to-combat-Mexico-diabetes-burden/blob/main/Final%20Presentation%20of%20Results.pdf).
 
 ### Design  
 By identifying the density of diabetes and obesity in Mexico, Fresh Kitchen will have strategic locations of where to build their restaurants to counter the rising diabetes rates. 
@@ -19,7 +19,7 @@ A variety of data cleaning methods were employed to accomplish the above tasks. 
 Google Sheets and Tableau were used for this entire project.
 
 ### Communication  
-I completed a final presentation of my [findings](https://github.com/nicolemmcbride/Nutritious-meals-as-a-way-to-combat-Mexico-diabetes-burden/blob/main/Final%20Presentation%20of%20Results.pdf). A dashboard of [demographics](https://public.tableau.com/views/MexicoDiabetesBurdenI/Demos?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) and [obesity and diabetes density](https://public.tableau.com/views/MexicoDiabetesBurdenII/Diabetes?:language=en-US&:display_count=n&:origin=viz_share_link) by county were created.
+I completed a [final presentation](https://github.com/nicolemmcbride/Nutritious-meals-as-a-way-to-combat-Mexico-diabetes-burden/blob/main/Final%20Presentation%20of%20Results.pdf) of my findings. A dashboard of [demographics](https://public.tableau.com/views/MexicoDiabetesBurdenI/Demos?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) and [obesity and diabetes density](https://public.tableau.com/views/MexicoDiabetesBurdenII/Diabetes?:language=en-US&:display_count=n&:origin=viz_share_link) by county were created.
 
 <img width="656" alt="Screenshot demographics" src="https://user-images.githubusercontent.com/80511410/196418948-da5707f1-ada5-4fc8-b968-5bbf59e2d559.png">
 
