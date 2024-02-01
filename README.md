@@ -19,7 +19,7 @@ A variety of data cleaning methods were employed to accomplish the above tasks. 
 Google Sheets and Tableau were used for this entire project.
 
 ### Communication  
-I completed a 5-minute presentation of my findings; slides and visuals for this project are included in this repository. A dashboard of [demographics](https://public.tableau.com/views/MexicoDiabetesBurdenI/Demos?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) and [obesity and diabetes density](https://public.tableau.com/views/MexicoDiabetesBurdenII/Diabetes?:language=en-US&:display_count=n&:origin=viz_share_link) by county were created.
+I completed a final presentation of my [findings](https://github.com/nicolemmcbride/Nutritious-meals-as-a-way-to-combat-Mexico-diabetes-burden/blob/main/Final%20Presentation%20of%20Results.pdf). A dashboard of [demographics](https://public.tableau.com/views/MexicoDiabetesBurdenI/Demos?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) and [obesity and diabetes density](https://public.tableau.com/views/MexicoDiabetesBurdenII/Diabetes?:language=en-US&:display_count=n&:origin=viz_share_link) by county were created.
 
 <img width="656" alt="Screenshot demographics" src="https://user-images.githubusercontent.com/80511410/196418948-da5707f1-ada5-4fc8-b968-5bbf59e2d559.png">
 
